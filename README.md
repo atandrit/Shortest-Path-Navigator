@@ -39,5 +39,5 @@ Result
 
 ## Author
 
-- [@atandrit](https://github.com/atandrit)
+- Atandrit Chatterjee ([@atandrit](https://github.com/atandrit))
 
